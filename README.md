@@ -1,5 +1,8 @@
 # project-react-2-onys-programmer
 
+프로젝트 url
+http://flexiblehabit.com
+
 ## Goal
 이 앱을 사용하는 사람은 갖고 싶은 습관을 가지게 됩니다.
 
